@@ -1,3 +1,4 @@
-const print=require('./welcom')
 
-modules.exports=print
+const print=require('./welcom');
+
+module.exports=print
